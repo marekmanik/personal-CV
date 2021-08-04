@@ -1,2 +1,2 @@
 # personal-CV
-My personal CV in HTML as part of the learning the web development.
+My personal CV made in HTML5 as part of the web development learning curve.
